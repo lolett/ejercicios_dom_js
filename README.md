@@ -1,2 +1,2 @@
 # ejercicios_dom_js
- Ejercicos de dom en JS
+ Ejercicos de DOM en JavaScript The Power Master Ciberseguridad
