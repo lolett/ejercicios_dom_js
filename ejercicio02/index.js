@@ -48,7 +48,7 @@ document.body.appendChild(ul)
 const classRmvElements = document.getElementsByClassName('fn-remove-me')
 
 // aquí realizo un loop para eliminar cada uno de los elementos de la clase
-// después recorro el array a la inversa ya para que el índex no genere problemas
+// después recorro el array a la inversa para que el índex no genere problemas
 for (let i = classRmvElements.length - 1; i >= 0; i--) {
   const element = classRmvElements[i]
   document.body.removeChild(element)
